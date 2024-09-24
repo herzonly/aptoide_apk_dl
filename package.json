@@ -1,8 +1,8 @@
 {
 
-    "name": "aptoide_dl_apk",
+    "name": "aptoide-scraper",
 
-    "version": "1.0.1",
+    "version": "1.0.2",
 
     "description": "Search and get apk from aptoide.",
 
@@ -20,7 +20,7 @@
 
         "type": "git",
 
-        "url": "git+https://github.com/Nignanfatao/aptoide_dl_apk.git"
+        "url": "git+https://github.com/Nignanfatao/aptoide-scraper.git"
 
     },
 
@@ -56,11 +56,11 @@
 
     "bugs": {
 
-        "url": "https://github.com/Nignanfatao/aptoide_dl_apk/issues"
+        "url": "https://github.com/Nignanfatao/aptoide-scraper/issues"
 
     },
 
-    "homepage": "https://github.com/Nignanfatao/aptoide_dl_apk#readme"
+    "homepage": "https://github.com/Nignanfatao/aptoide-scraper#readme"
 
 }
 
