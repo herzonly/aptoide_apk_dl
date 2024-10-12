@@ -1,10 +1,10 @@
 {
 
-    "name": "aptoide-scraper",
+    "name": "aptoide_apk_dl",
 
     "version": "1.0.2",
 
-    "description": "Search and get apk from aptoide.",
+    "description": "rechercher et télécharger des applications depuis Aptoide",
 
     "main": "app.js",
 
@@ -20,7 +20,7 @@
 
         "type": "git",
 
-        "url": "git+https://github.com/Nignanfatao/aptoide-scraper.git"
+        "url": "git+https://github.com/Nignanfatao/aptoide_apk_dl.git"
 
     },
 
@@ -50,19 +50,15 @@
 
     },
 
-    "author": "vihangayt0 <vihangamd1@gmail.com> (https://github.com/vihangayt0) dix By Fatao",
-
     "license": "ISC",
-    
-    "npm_publisher": "VihangaYT",
 
     "bugs": {
 
-        "url": "https://github.com/Nignanfatao/aptoide-scraper/issues"
+        "url": "https://github.com/Nignanfatao/aptoide_apk_dl/issues"
 
     },
 
-    "homepage": "https://github.com/Nignanfatao/aptoide-scraper#readme"
+    "homepage": "https://github.com/Nignanfatao/aptoide_apk_dl#readme"
 
 }
 
