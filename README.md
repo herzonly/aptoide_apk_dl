@@ -2,7 +2,7 @@
 
 
 
-- Author : [Ainz](https://github.com/Nignanfatao)
+- Auteur : [Ainz](https://github.com/Nignanfatao)
 
 
 
