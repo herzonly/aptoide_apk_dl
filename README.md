@@ -18,7 +18,7 @@ const {
 
 search
 
-} = require('aptoide-scraper')
+} = require('aptoide_apk_dl')
 
 
 
@@ -181,7 +181,7 @@ const {
 
 download
 
-} = require('aptoide-scraper')
+} = require('aptoide_apk_dl')
 
 
 
