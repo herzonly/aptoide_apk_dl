@@ -5,7 +5,7 @@ const tools = require('./fix-link.js');
 function formatSize(sizeInBytes) {
   if (sizeInBytes === null) return 'N/A';
   const sizeInMo = (sizeInBytes / (1024 * 1024)).toFixed(2); // Conversion en Mo
-  return `${sizeInMo} Mo`;
+  return `${sizeInMo}`;
 }
 
 async function getFileSize(url) {
