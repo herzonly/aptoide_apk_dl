@@ -1,8 +1,8 @@
-## Search and get apk fron Aptoide
+## Rechercher et télécharger des applications depuis Aptoide
 
 
 
-- Author : [Vihanga-YT](https://github.com/vihangayt0)
+- Author : [Ainz](https://github.com/Nignanfatao)
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-## Example search
+## Exemple de recherche
 
 ```js
 
@@ -30,7 +30,7 @@ console.log(search)
 
 ***
 
-## OutPut
+## résultats
 
 ```js
 
@@ -173,7 +173,7 @@ console.log(search)
 
 
 
-## Example dl
+## Exemple téléchargement
 
 ```js
 
@@ -193,7 +193,7 @@ console.log(data)
 
 ***
 
-## OutPut
+## Résultat
 
 ```js
 
