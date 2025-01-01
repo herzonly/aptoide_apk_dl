@@ -1,7 +1,7 @@
 const express = require('express');
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
 const cheerio = require('cheerio');
-const tools = require('./fix-link.js');
+const tools = require('../fix-link.js');
 
 const app = express();
 const PORT = 3000;
