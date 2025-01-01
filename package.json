@@ -6,13 +6,13 @@
 
     "description": "rechercher et télécharger des applications depuis Aptoide",
 
-    "main": "app.js",
+    "main": "api/app.js",
 
     "scripts": {
 
         "test": "node app.js",
 
-        "start": "node app.js"
+        "start": "node api/app.js"
 
     },
 
