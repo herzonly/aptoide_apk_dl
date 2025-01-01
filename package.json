@@ -43,6 +43,7 @@
         "cheerio": "^1.0.0-rc.10",
 
         "axios": "^1.2.2",
+        "express": "*",
 
         "node-fetch": "^3.3.0"
 
