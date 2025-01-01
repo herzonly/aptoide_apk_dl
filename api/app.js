@@ -44,6 +44,10 @@ async function downloadApp(id) {
   };
 }
 
+app.get('/', async (req, res) => {
+  res.return("online")
+}
+
 app.get('/aptoide', async (req, res) => {
   const { q, type } = req.query;
 
